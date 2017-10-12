@@ -1,7 +1,7 @@
 # LINE TCR
-Forked from LINEALPHA [MerkKremont]
+Team Creator Robot Line
 
-fixing some error and delete unusable code 
+Free code
 
 ## Require to install
 ```
