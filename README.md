@@ -1,7 +1,5 @@
 # LINE TCR
-Forked from LINEALPHA [MerkKremont]
-
-fixing some error and delete unusable code 
+Line Bot Sc from TEAM CREATOR BOT LINE
 
 ## Require to install
 ```
