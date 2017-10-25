@@ -30,7 +30,7 @@ client = cl
 
 #ki = kk = kc = cl 
 
-print "login success"
+print("login success")
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
